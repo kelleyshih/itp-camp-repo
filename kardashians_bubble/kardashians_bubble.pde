@@ -1,3 +1,5 @@
+// this is an awesome graph :)
+
 int[] kim = {3,6,11,18,7,3,2,3};
 int [] kourt = {0,1,3,8,2,0,3,0};
 int[] khloe = {0,1,2,6,4,2,1,1};
